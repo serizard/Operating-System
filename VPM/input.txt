@@ -1,0 +1,23 @@
+15 166
+1 in 10
+5 in 32
+13 in 1
+1 out 10
+8 in 32
+12 in 30
+2 in 14
+8 out 32
+10 in 14
+15 in 31
+5 out 32
+6 in 50
+12 out 30
+0 cpn 0
+8 in 32
+15 out 31
+6 out 50
+3 in 9
+2 out 14
+2 in 14
+1 in 10
+-1 exit 0
